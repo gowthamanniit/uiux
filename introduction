@@ -20,6 +20,10 @@ alt+drag -----------> duplicate shapes
 shift key--------> group selection
 ctrl+0--------------> zoom to 100%
 hand tool----> space
+
+ctrl+alt+m ----------> mask (photo round shape --> first photo + second bottom circle with bg white color)
+ctrl+G ------------->Group 
+
 N - next slide
 shift = n ---> previous slide
 
@@ -29,5 +33,6 @@ alt + shift --------> center maintainance of two circles or any shapes
 double click-->edit shapes
 ctrl ---> click dot on sharp (remove arc)
 esc ----> out of editing mode
-
+[ ------> send to back
+] ------> send to front
 
